@@ -1,6 +1,6 @@
 <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
-<h3>How to reach me:</h3>
+<h3>How to reach me:  <p align="right"> Total Profile Views :detective: </p>   </h3> <img align="right" src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
 
 <a href=""><img src="https://img.shields.io/badge/instagram-%23D117B5.svg?&style=for-the-badge&logo=instagram&logoColor=#white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
