@@ -14,7 +14,7 @@
 
 <!-- sample badge demo https://simpleicons.org/ -->
 ## Profile
-<img width="24%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg" alt="img" align="right">
+<img width="30%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg" alt="img" align="right">
 
 Property                 | Data  |       
 -------------------------|-------|
