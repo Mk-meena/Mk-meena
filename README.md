@@ -14,8 +14,10 @@
 
 <!-- sample badge demo https://simpleicons.org/ -->
 ## Profile
-Property                 | Data  
--------------------------|------
+<img width="24%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg" alt="img" align="right">
+
+Property                 | Data  |       
+-------------------------|-------|
 LANGUAGE            | <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=A33682" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/C%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F86" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++%20-%23F7DF1E.svg?&style=for-the-badge&color=blue" />&nbsp;&nbsp;
 IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=csharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) 
 FRAMWORKS | <img src="https://img.shields.io/badge/Andriod Studio%20-%23F7DF1E.svg?&style=for-the-badge&color=purple" />&nbsp;&nbsp;
